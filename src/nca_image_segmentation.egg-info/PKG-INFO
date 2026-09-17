@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: nca-image-segmentation
+Version: 0.1.0
+Summary: Experiments for image segmentation with neural cellular automata
+Requires-Python: >=3.10
+Requires-Dist: numpy>=1.26
+Requires-Dist: pygame>=2.5
+Requires-Dist: Pillow>=10.0
